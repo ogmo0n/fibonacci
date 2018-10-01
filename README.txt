@@ -1,4 +1,6 @@
-﻿Windows form app that calculates a number based on the Fibonacci sequence.
+﻿# fibonacci
+
+Windows form app that calculates a number based on the Fibonacci sequence.
 
 Accepts user input for the Fibonacci level.
 
